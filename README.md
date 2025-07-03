@@ -1,6 +1,6 @@
 ### Olá, eu sou o Marco Caparra! 👋
 
-Sou **Técnico em Mecatrônica**, com foco em **IoT** e **Automação de Sistemas** para a **Indústria 4.0**. Minha paixão é transformar ideias em realidade, sempre buscando a excelência. Como costumo dizer: *"Vocação em fazer bem-feito!"*
+Sou **Técnico em Mecatrônica**, com foco em **IoT** e **Automação de Sistemas**. Minha paixão é transformar ideias em realidade, sempre buscando a criatividade e inovação!
 
 ---
 
@@ -28,7 +28,6 @@ Atualmente, minhas principais ferramentas e tecnologias incluem:
 No momento, estou imerso em projetos de **automação**, **IoT** e **desenvolvimento web**. Meu objetivo é aprofundar meus conhecimentos e atuar ainda mais na **Indústria 4.0**, explorando tecnologias como:
 
 * **Inteligência Artificial (IA)**
-* **Linguagens de Programação:** `C`, `C#`, `C++`
 * **Automação Avançada**
 
 ---
